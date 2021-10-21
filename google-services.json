@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996772557487",
+    "firebase_url": "https://pwa-experiment-c78f9.firebaseio.com",
+    "project_id": "pwa-experiment-c78f9",
+    "storage_bucket": "pwa-experiment-c78f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996772557487:android:d3749dcf02210a44feda5a",
+        "android_client_info": {
+          "package_name": "com.kuva.childrenTracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996772557487-l9b4k9c3ujg1umkrv2chpsvo48gjrf9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFBr5HwcrBi8Lmt6b04hw2cl-F68bS5vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996772557487-l9b4k9c3ujg1umkrv2chpsvo48gjrf9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
